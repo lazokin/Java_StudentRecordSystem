@@ -1,0 +1,11 @@
+E011,John Bobson,90K,Manager
+E012,Mark Leigh,50K,Admin
+E110,Ralph Derby,$20,Instructor
+E123,Susie Karl,$20,Instructor
+E143,Nelson Cesare,$60,Instructor
+E225,Henry Wine,$20,Instructor
+E402,Linda Fripp,$50,Instructor
+E444,Jessie Pinnix,$30,Instructor
+E462,Katy Doe,$40,Instructor
+E482,John Doe,$70,Instructor
+E901,Avis Gerardi,60K,Admin

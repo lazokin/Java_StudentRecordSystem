@@ -1,0 +1,5 @@
+S110,Ralph Derby,1987,90,75,Exp,85,Run 1,-,$900
+S122,June Forster,1974,Exp,Exp,60,Run 1,-,Run 2,$1500
+S123,Susie Karl,1960,85,90,70,Exp,40,-,$400
+S220,Philip Greg,1958,-,Run 2,Run 2,-,-,-,$800
+S225,Henry Wine,1984,40,60,90,-,-,-,$1200
